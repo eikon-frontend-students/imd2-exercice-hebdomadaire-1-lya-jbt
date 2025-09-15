@@ -12,6 +12,13 @@ img,
 video {
   display: block;
 }
+body{
+  background: #E7EAEE;
+  display: flex;
+  width: 1728px;
+  padding: 50px 1308px 556px 50px;
+  align-items: center;
+}
 .card{
   display: flex;
   width: 370px;
