@@ -64,9 +64,9 @@ body{
     height: 56px;
     border-radius: 28px;
   }
-.profile{
+.user{
   display: flex;
-width: 330px;
-align-items: center;
-gap: 20px;
+  width: 330px;
+  align-items: center;
+  gap: 20px;
 }
