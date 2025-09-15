@@ -68,6 +68,7 @@ body{
   display: flex;
   width: 330px;
   gap: 20px;
+  align-items: center;
 }
 .username-date{
   display: flex;
